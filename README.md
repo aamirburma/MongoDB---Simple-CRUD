@@ -6,7 +6,6 @@
     <li>Delete Department</li>
     <li>Faetch All Department</li>
 </ol>
-<h1>Employee Managemnt</h1>
 <hr />
 <img src="./postman/1.png" width="100%" />
 <hr />
@@ -24,6 +23,8 @@
 <hr />
 <img src="./postman/8.png" width="100%" />
 <hr />
+
+<h1>Employee Managemnt</h1>
 <ol>
     <li>Insert Employee</li>
     <li>Update Employee</li>
